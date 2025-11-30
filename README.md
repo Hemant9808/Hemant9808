@@ -19,12 +19,12 @@ Since **2023**, I’ve contributed to numerous open-source projects, participate
 
 ---
 
-# 📊 GitHub Statistics (Instant Recruiter Highlights)
+# 📊 GitHub Statistics Highlights 
 
 ### 🔥 **Overall Contribution Stats**
-- **62+ Public Repositories**
-- **119 Pull Requests Raised**
-- **113 Pull Requests Merged**
+- **70+ Public Repositories**
+- **200+ Pull Requests Raised**
+- **190+ Pull Requests Merged**
 - **40+ Issues Created/Participated**
 - **2,000+ Public Commits (estimated)**
 - **820+ GitHub Active Days (since Sept 2023)**
@@ -38,7 +38,7 @@ Since **2023**, I’ve contributed to numerous open-source projects, participate
 - 50+ **features built** across multiple projects  
 - 26+ **bugs/security fixes** merged  
 - Strong track record of **assigned issues completed**  
-- Built 10+ complete **end-to-end applications**  
+- Built 25+ complete **end-to-end applications**  
 - Consistent contributor during **Hacktoberfest, GSSoC & OSS events**  
 - 60+ **code reviews** given/received  
 - Regular work with **CI/CD pipelines**  
